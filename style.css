@@ -7,7 +7,7 @@
 
 body{
     height: 100vh;
-    background-image: url(scarletwitch-doctor-strange-in-the-multiverse-of-madness-jd.jpg);
+    background-image: url(imagens/scarletwitch-doctor-strange-in-the-multiverse-of-madness-jd.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -61,7 +61,7 @@ section.wanda{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(wp9669598.jpg);
+    background-image: url(imagens/wp9669598.jpg);
     transition: 300ms;
     filter: brightness(0.25) saturate(0) blur(3px);
     z-index: 1 !important;
