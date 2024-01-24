@@ -6,6 +6,7 @@
 }
 
 body{
+    background-color: rgba(0, 0, 0, 0.723);
     height: 100vh;
     background-image: url(imagens/scarletwitch-doctor-strange-in-the-multiverse-of-madness-jd.jpg);
     background-size: cover;
